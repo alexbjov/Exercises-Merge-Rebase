@@ -1,1 +1,2 @@
+Change from Feature A
 Change from Feature B
